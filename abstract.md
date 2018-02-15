@@ -18,11 +18,10 @@ to scientists wanting to couple, extend--or simply run--existing models.
 And all this is before the scientific difficulties
 of coupling or running models are addressed.
 
-The CSDMS Python Modeling Toolkit (PyMT)
-was developed to help non-computer scientists
-deal with these sorts of modeling logistics.
-PyMT is the fundamental package
-the Community Surface Dynamics Modeling System uses
+The Community Surface Dynamics Modeling System (CSDMS)
+developed the Python Modeling Toolkit (PyMT)
+to help non-computer scientists deal with these sorts of modeling logistics.
+PyMT is the fundamental package CSDMS uses
 for running and coupling models
 that expose a Basic Modeling Interface (BMI).
 PyMT contains:
